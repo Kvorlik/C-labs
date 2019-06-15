@@ -1,5 +1,5 @@
 # C-labs
-This repo contains laboratory work for the course "programming languages", relevant for 2017.
+This repo contains laboratory works for the course "programming languages (C language)", relevant for 2017.
 
 Although the source file extensions are .cpp, the program code is written using C syntax.
 
